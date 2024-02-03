@@ -13,6 +13,7 @@ $lang_strings = [
 	'order_status_options_label' => 'Order status options',
 	'update_options_button' => 'Update options',
 	'custom_state_option' => 'Custom state message',
-	'' => '',
+	'mainPage_TitleBar' => 'Check your order status here',
+    '' => '',
 ];
 ?>
