@@ -14,6 +14,7 @@ $lang_strings = [
 	'update_options_button' => 'Update options',
 	'custom_state_option' => 'Custom state message',
 	'mainPage_TitleBar' => 'Check your order status here',
+    'order_number' => 'Objednávka č.',
     '' => '',
 ];
 ?>
